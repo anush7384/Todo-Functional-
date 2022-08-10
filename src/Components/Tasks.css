@@ -1,0 +1,36 @@
+#item_div{
+    width:500px;
+    height:30px;
+    background-color:rgb(227, 227, 215);
+    position: relative;
+    display: flex;
+
+}
+ #complete_checkbox{
+
+    width:10%;
+    margin-top: 8px;
+}
+#delete_button{
+    width:15%;
+    margin-top: 5px;
+}
+#delete_div{
+    width:5%;
+    margin-top: 5px;
+}
+
+#task_div{
+    width:80%;
+    height: 100%;
+    font-size: 20px;
+    /* background-color: aqua; */
+}
+.complete{
+    /* background-color: green; */
+    text-decoration-line: line-through;
+}
+
+/* #complete_checkbox{
+    width:300px;
+} */

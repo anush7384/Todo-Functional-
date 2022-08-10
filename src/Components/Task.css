@@ -1,0 +1,41 @@
+#list_div{
+    width:500px;
+    background-color: rgb(227, 227, 215);
+    box-shadow: 1px 2px 2px;
+    height:fit-content;
+    padding:20px;
+}
+#container{
+    position: absolute;
+    margin-left:500px;
+}
+h1{
+    width:500px;
+}
+#input{
+    width:90%;
+    margin-left: 0;
+}
+#drop{
+    float:left;
+    background-color: beige;
+    height:32px;
+    width:9%;
+    background-color: aliceblue;
+    box-shadow: 1px 1.5px 1px;
+}
+#dropdown{
+    margin-top: 10px;
+}
+#all{
+    margin-top: 17px;
+    height:20px;
+}
+#active{
+    margin-top: 17px;
+    height:20px;
+}
+#complete{
+    margin-top: 17px;
+    height:20px;
+}
